@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Afonso Rodrigues"
 title_separator          : "-"
 name                     : &name "Afonso Rodrigues"
-description              : &description "Hello, I'm a quantum computing researcher who loves all things quantum."
+description              : &description "Quantum computing researcher at University of Minho"
 url                      : https://afonsofr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "afonsofr/afonsofr.github.io"
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,15 +82,15 @@ analytics:
 # Site Author
 author:
   name             : "Afonso Rodrigues"
-  avatar           : "profile.png"
-  bio              : "Quantum computing researcher"
+  avatar           : "site_avatar_res.jpg"
+  bio              : "Hello, I'm a quantum computing researcher who loves all things quantum."
   location         : "Braga, Portugal"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,14 +102,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "afonso-rodrigues"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
