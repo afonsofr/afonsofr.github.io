@@ -1,5 +1,5 @@
 ---
-title: "Quantum Computation"
+title: "Quantum Computation - University of Minho"
 collection: teaching
 type: "Graduate course"
 permalink: #http://arca.di.uminho.pt/quantum-computation-1819
@@ -12,10 +12,10 @@ As a teacher assistant, developed and taught the practical component of this gra
 
 Course plan (practical component):
 
-I. Simulation of quantum circuits with Haskell
-------
+### I. Simulation of quantum circuits with Haskell
 
 
-II. Hands-on quantum algorithm development with Qiskit
-------
+
+### II. Hands-on quantum algorithm development with Qiskit
+
 
