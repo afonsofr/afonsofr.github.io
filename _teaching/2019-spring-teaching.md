@@ -8,13 +8,13 @@ date: 2019-03-01
 location: "Braga, Portugal"
 ---
 
-As a teacher assistant, developed and taught the practical component of this graduate-level class for students of the Engineering Physics degree of University of Minho. Course materials are available in the course webpage.
+As a teacher assistant, developed and taught the practical component of this graduate-level class for students of the Engineering Physics degree of University of Minho. All course materials are available in the course webpage.
 
 Heading 1
-======
+====== fma
 
-Heading 2
+Heading 2 adsda
 ======
-
+sada
 Heading 3
 ======
