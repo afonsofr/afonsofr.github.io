@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Integrated Master in Engineering Physics - Physics of Information, University of Minho, 2018
+  * Master thesis: _Verification and validation of quantum simulations - Assessing efficiency and reliability in experimental implementations_, available [here](http://academicpages.github.io/files/Thesis_AfonsoRodrigues.pdf).
+  * Supervisor: [Luís Barbosa](http://www4.di.uminho.pt/~lsb/)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2019 - Present: [_Teacher Assistant_](https://afonsofr.github.io/teaching/2019-qc-teaching/)
+  * University of Minho
+  * Duties included: Developing and teaching the practical classes of the graduate-level course [Quantum Computation](http://arca.di.uminho.pt/quantum-computation-1819/).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec 2018 - Present: Research Fellowship holder
+  * University of Minho
+  * Duties included: Carrying a research scholarship in the field of Quantum Computation, involving the application of quantum simulation and quantum optimization algorithms to "real-world" problems, for execution in state-of-the-art quantum processors.
+  
+* Nov 2017 - Present: [_Research Assistant_](https://www.inesctec.pt/en/people/afonso-miguel-rodrigues)
+  * INESC TEC
+  * Duties included: Continuity work from the master’s project under the subject of quantum simulations and collaborations with other researchers in the fields of Quantum Computation and Quantum Information.
   
 Skills
 ======
@@ -53,7 +55,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
