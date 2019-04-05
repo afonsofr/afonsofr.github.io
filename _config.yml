@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+
 locale                   : "en-US"
 title                    : "Afonso Rodrigues"
 title_separator          : "-"
@@ -83,9 +84,9 @@ analytics:
 author:
   name             : "Afonso Rodrigues"
   avatar           : "site_avatar_res.jpg"
-  bio              : "A quantum computing researcher who loves all things quantum."
+  bio              : "Quantum computing researcher at University of Minho & INESC TEC"
   location         : "Braga, Portugal"
-  employer         : "Universidade do Minho"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "afmig1@gmail.com"
