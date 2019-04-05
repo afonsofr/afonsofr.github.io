@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Afonso Rodrigues"
   avatar           : "site_avatar_res.jpg"
-  bio              : "Hello, I'm a quantum computing researcher who loves all things quantum."
+  bio              : "A quantum computing researcher who loves all things quantum."
   location         : "Braga, Portugal"
-  employer         :
+  employer         : "Universidade do Minho"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "afmig1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "afonso-rodrigues"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "afonso-rodrigues-120b14158"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
