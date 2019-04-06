@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently work as quantum computing researcher and [teacher assistant](https://afonsofr.github.io/teaching/2019-qc-teaching/) in University of Minho, Dept. of Computer Science; I am also associated with [INESC TEC](https://www.inesctec.pt/en/people/afonso-miguel-rodrigues) as an assistant researcher. My work includes:
+I currently work as quantum computing researcher and [teaching assistant](https://afonsofr.github.io/teaching/2019-qc-teaching/) in University of Minho, Dept. of Computer Science; I am also associated with [INESC TEC](https://www.inesctec.pt/en/people/afonso-miguel-rodrigues) as an assistant researcher. My work includes:
 
 * Continuing development of my master's project, on the subject of validation of quantum simulations;
 * Application of quantum algorithms to "real-world" optimization problems;

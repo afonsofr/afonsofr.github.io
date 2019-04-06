@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Mar 2019 - Present: [Teacher Assistant](https://afonsofr.github.io/teaching/2019-qc-teaching/)
+* Mar 2019 - Present: [Teaching Assistant](https://afonsofr.github.io/teaching/2019-qc-teaching/)
   * University of Minho
   * Duties included: Developing and teaching the practical classes of the graduate-level course [Quantum Computation](http://arca.di.uminho.pt/quantum-computation-1819/).
 
@@ -36,8 +36,7 @@ Work experience
 Accomplishments
 ======
 * Oct 2017: [Awarded the New Talents in Quantum in Quantum Technologies scholarship](https://www.eng.uminho.pt/en/researchinnovate/_layouts/15/uminho.portaisuoei.ui/pages/eventsdetail.aspx?id=52040)
- * For my Master's project, I was awarded with this scholarship distinguishing students and young researchers in the field of quantum information and quantum
-technologies.
+  * For my Master's project, I was awarded with this scholarship distinguishing students and young researchers in the field of quantum information and technologies.
   
 Skills
 ======
