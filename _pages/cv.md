@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Integrated Master in Engineering Physics - Physics of Information, University of Minho, 2018
-  * Master thesis: _Verification and validation of quantum simulations - Assessing efficiency and reliability in experimental implementations_, available [here](http://academicpages.github.io/files/Thesis_AfonsoRodrigues.pdf).
+  * Master thesis: _Verification and validation of quantum simulations - Assessing efficiency and reliability in experimental implementations_, available [here](http://afonsofr.github.io/files/Thesis_AfonsoRodrigues.pdf).
   * Supervisors: [Luís Barbosa](http://www4.di.uminho.pt/~lsb/) and Carlos Tavares
 
 Work experience
