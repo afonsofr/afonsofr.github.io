@@ -2,7 +2,7 @@
 title: "(master's thesis) Validation of quantum simulations - Assessing efficiency and reliability in experimental implementations"
 collection: publications
 permalink: /publication/2018-11-05-masterthesis
-excerpt: 'Final thesis for the Integrated Master's in Engineering Physics.'
+excerpt: "Final thesis for the Integrated Master's in Engineering Physics."
 date: 2018-11-05
 venue: 'University of Minho'
 paperurl: 'http://hdl.handle.net/1822/59739'
