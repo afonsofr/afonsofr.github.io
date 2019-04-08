@@ -30,7 +30,7 @@ Work experience
   * Duties included: Continuity work from the master’s project under the subject of quantum simulations and collaborations with other researchers in the fields of Quantum Computation and Quantum Information.
 
 * Sep 2016 - June 2017: Assessor in External Accreditation Committee
-  * A3ES
+  * [A3ES](https://www.a3es.pt/en/about-a3es)
   * Duties included: Joining a comittee composed of academics in the field of Physics, to perform and discuss the results of an external audit for accreditation of the graduate and undergraduate courses provided by the Dept. of Physics of the Faculty of Sciences of University of Lisbon (FCUL).
 
 Accomplishments
