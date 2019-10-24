@@ -21,11 +21,11 @@ Work experience
   * University of Minho
   * Duties included: Developing and teaching the practical classes of the graduate-level course [Quantum Computation](http://arca.di.uminho.pt/quantum-computation-1819/).
 
-* Dec 2018 - Present: Research Fellowship holder
+* Dec 2018 - Jun 2019: Research Fellowship holder
   * University of Minho
   * Duties included: Carrying a research scholarship in the field of Quantum Computation, involving the application of quantum simulation and quantum optimization algorithms to "real-world" problems, for execution in state-of-the-art quantum processors.
   
-* Nov 2017 - Present: [Research Assistant](https://www.inesctec.pt/en/people/afonso-miguel-rodrigues)
+* Nov 2017 - Jun 2019: [Research Assistant](https://www.inesctec.pt/en/people/afonso-miguel-rodrigues)
   * INESC TEC
   * Duties included: Continuity work from the master’s project under the subject of quantum simulations and collaborations with other researchers in the fields of Quantum Computation and Quantum Information.
 

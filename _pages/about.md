@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+If you are attending the hands-on session for the **Mission 10000** conference @INL, you can download the notebook file [HERE](https://afonsofr.github.io/files/hands_on_mission_10000.ipynb).
+
+
+
+
 I currently work as quantum computing researcher and [teaching assistant](https://afonsofr.github.io/teaching/2019-qc-teaching/) in University of Minho, Dept. of Computer Science; I am also associated with [INESC TEC](https://www.inesctec.pt/en/people/afonso-miguel-rodrigues) as an assistant researcher. My work includes:
 
 * Continuing development of my master's project, on the subject of validation of quantum simulations;
